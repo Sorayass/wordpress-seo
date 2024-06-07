@@ -3,14 +3,15 @@ export const singleWords = [
 	"conquanto", "contudo", "decerto", "embora", "enfim", "enquanto", "então", "entretanto", "eventualmente",
 	"igualmente", "inegavelmente", "inesperadamente", "mas", "ocasionalmente", "outrossim", "pois", "porquanto", "porque", "portanto",
 	"posteriormente", "precipuamente", "primeiramente", "primordialmente", "principalmente", "salvo",
-	"semelhantemente", "similarmente", "sobretudo", "surpreendentemente", "todavia",
+	"semelhantemente", "similarmente", "sobretudo", "surpreendentemente", "todavia", "inicialmente", "especificamente","notavelmente", "curiosamente", "paradoxalmente",
+	"particularmente", "adicionalmente", "naturalmente",
 ];
 
 export const multipleWords = [
 	"a fim de", "a fim de que", "a menos que", "a princípio", "a saber", "acima de tudo", "ainda assim", "ainda mais", "ainda que",
 	"além disso", "antes de mais nada", "antes de tudo", "antes que", "ao mesmo tempo", "ao passo que", "ao propósito",
 	"apesar de", "apesar disso", "às vezes", "assim como", "assim que", "assim sendo", "assim também", "bem como", "com a finalidade de",
-	"com efeito", "com o fim de", "com o intuito de", "com o propósito de", "com toda a certeza", "como resultado", "como se",
+	"com efeito", "com o fim de", "com o intuito de", "com o propósito de", "com o objetivo de", "com toda a certeza", "como resultado", "como se",
 	"da mesma forma", "de acordo com", "de conformidade com", "de fato", "de maneira idêntica", "de tal forma que", "de tal sorte que",
 	"depois que", "desde que", "dessa forma", "dessa maneira", "desse modo", "do mesmo modo", "é provável", "em conclusão",
 	"em contrapartida", "em contraste com", "em outras palavras", "em primeiro lugar", "em princípio", "em resumo", "em seguida",
@@ -20,7 +21,8 @@ export const multipleWords = [
 	"por causa de", "por certo", "por conseguinte", "por conseqüência", "porém", "por exemplo", "por fim", "por isso", "por mais que",
 	"por menos que", "por outro lado", "por vezes", "posto que", "se acaso", "se bem que", "seja como for", "sem dúvida", "sempre que",
 	"só para exemplificar", "só para ilustrar", "só que", "sob o mesmo ponto de vista", "talvez provavelmente", "tanto quanto",
-	"todas as vezes que", "todas as vezes em que", "uma vez que", "visto que",
+	"todas as vezes que", "todas as vezes em que", "uma vez que", "visto que","em essência", "por consequência","em particular", "pouco antes", "pouco depois",
+	"à primeira vista", "não só",
 ];
 
 export const allWords = singleWords.concat( multipleWords );
